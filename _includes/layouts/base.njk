@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} + {{ metadata.title }}</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+
+<body class="{{ bodyclass }}">
+  <div class="wrapper">
+  <header>
+    <h1>{{ metadata.title }}</h1>
+    <nav>
+      <p><a href="/">main</a></p>
+      <p><a href="/about">about</a></p>
+      <p><a href="/journal">journal</a></p>
+      <p><a href="/press">press</a></p>
+    </nav>
+  </header>
+
+  <main>
+  {{ content | safe }}
+  </main>
+
+<footer>
+  <p>Follow Marc on <a href="https://www.instagram.com/marc_english/">Instagram</a> and <a href="https://www.facebook.com/marc.english">Facebook</a>.<p>
+  <!-- <p>&copy;2023</p> -->
+</footer>
+</div>
+</body>
+</html>

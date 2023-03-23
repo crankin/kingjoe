@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+---
+
+{% if title %}<h2>{{ title }}</h2>{% endif %}
+{% if subtitle %}<h4>{{ subtitle }}</h4>{% endif %}
+
+{{ content | safe }}
+
+<h3 class="entrylist">Journal Entries</h3>
+<ul>
+  {%- for entry in collections.journal -%}
+    <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
+  {%- endfor -%}
+</ul>

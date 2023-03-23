@@ -1,0 +1,17 @@
+{
+  "name": "kingjoe",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  "build": "npx @11ty/eleventy",
+  "start": "npx @11ty/eleventy --serve",
+  "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+  "debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
