@@ -1,7 +1,7 @@
 ---
 title: Press
 layout: layouts/page.njk
-bodyclass: noback
+bodyclass: jrback
 ---
 Three Men Rescued by Lord Jellicoe - The Sydney Morning Herald 1919
 
