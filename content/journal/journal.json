@@ -1,3 +1,4 @@
 {
-  "tags": ["journal"]
+  "tags": ["journal"],
+  "bodyclass" : "jrback"
 }

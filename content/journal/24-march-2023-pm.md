@@ -4,11 +4,10 @@ date: 2023-03-24
 tags:
   - journal
 layout: layouts/journal.njk
-bodyclass: jourback
 ---
-**Friday, 24 March 2023**  
-**8:43 PM, 82.4°**  
-**London**
+#### 8:43 PM
+#### 82.4°  
+#### London
 
 ### Women
 

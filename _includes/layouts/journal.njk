@@ -8,7 +8,7 @@ layout: layouts/base.njk
 {{ content | safe }}
 
 <h3 class="entrylist">Journal Entries</h3>
-<ul>
+<ul class="entries">
   {%- for entry in collections.journal -%}
     <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
   {%- endfor -%}

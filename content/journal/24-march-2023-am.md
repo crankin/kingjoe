@@ -1,14 +1,12 @@
 ---
-title: Friday, 24 March 2023, 4:37 am
+title: Friday, 24 March 2023, morning
 date: 2023-03-24
 tags:
   - journal
 layout: layouts/journal.njk
-bodyclass: jourback
 ---
-**Friday, 24 March 2023**  
-**4:37 am, 79°**  
-**From Poland to London**
+#### 4:37 am, 79°
+#### From Poland to London
 
 I can’t sleep. I should be able to because the setting is perfect. I’m 2 1/2 feet off the ground on the wonderful Kia Kia. It is well-made and constructed. 10 feet wide by 14 feet long. Coconut palm frond roof is 100% waterproof, but it’s not raining. It’s cloudy and there are a few stars. My air mattress, cotton sleep sack, and cotton sack in which I have my clothes that doubles as a pillow, all that is needed for a good nights sleep.
 
@@ -52,16 +50,18 @@ Wild things was my favorite, and of course, there are palm trees and wonderful c
 
 No doubt a few other things will come to mind. Good night moon. OK time to ride.
 
-**10:08 AM, 50.7 km.**  
-**Banana**
+#### 10:08 AM
+#### 50.7 km  
+#### Banana
 
 At 42 km a truck was coming at me. I was riding on the right side of the road, which was paved 70 years ago by the British. The left side of the road is dirt, and I had to cut onto that.
 
 At 48 km the dirt lane ends, and the road becomes two lanes wide, paved. Paved is SLIGHTLY less rough, bumpy, full of potholes. The road gets worse, from Banana to London, due to use.
 
 
-**10:17 AM, 55.5 km.**  
-**Main Camp**
+#### 10:17 AM
+#### 55.5 km  
+#### Main Camp
 
 At JMB Store, the only store on the island that gets goods from Honolulu, as compared to Fiji. I stop and chat with, John and Anna Bryden’s son, Bob. Bob runs the JMB store, which he runs with his mother, now that dad, John, is retired.
 
@@ -71,7 +71,8 @@ I just splurged and bought a Coca-Cola, and… 1 can of pineapple. Going to live
 
 It is now 10:43 and heading to London.
 
-**London. 11:12 AM**  
-**70.3 km**
+#### 11:12 AM
+#### London  
+#### 70.3 km
 
 2.5 hours, including chat with Bob

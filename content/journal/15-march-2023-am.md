@@ -1,14 +1,12 @@
 ---
-title: Wednesday, 15 March 2023, 10:11 am
+title: Wednesday, 15 March 2023, morning
 date: 2023-03-15
 tags:
   - journal
 layout: layouts/journal.njk
-bodyclass: jrback
 ---
-**Wednesday, 15 March 2023**<br>
-**10:11 am**<br>
-**London, Kiritimati**
+#### 10:11 am
+#### London, Kiritimati
 
 Find copy of:
 Ministry of Overseas Development

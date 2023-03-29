@@ -1,15 +1,13 @@
 ---
-title: Monday, 20 March 2023, 6:33 am
+title: Monday, 20 March 2023, morning
 date: 2023-03-20
 tags:
   - journal
 layout: layouts/journal.njk
-bodyclass: jourback
 ---
-**Monday, 20 March 2023**  
-**6:33 am**  
-**73° rains**  
-**Paris**
+#### 6:33 am  
+#### 73° rains  
+#### Paris
 
 It’s been raining most of the night. And of course, the ever-present easterly trade winds blow at 15 or more miles an hour.
 

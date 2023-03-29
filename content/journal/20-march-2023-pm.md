@@ -1,13 +1,11 @@
 ---
-title: Monday, 20 March 2023, 7:09 pm
+title: Monday, 20 March 2023, evening
 date: 2023-03-20
 tags:
   - journal
 layout: layouts/journal.njk
-bodyclass: jourback
 ---
-**Monday, 20 March 2023**  
-**7:09 pm**
+#### 7:09 PM
 
 Iou was back with three octopus before noon. I know people love octopus, but I’ve never liked it. I didn’t grow up eating a lot of seafood. Back in those days we had fish sticks every once in a while. Typical middle-class American. Was only as an adult when I learned to appreciate a good fillet, scallops, oysters, shrimp, lobster. Here, of course, in the middle of the Pacific, fish is a way of life. Lunch was rice, spicy Ramen, and two kinds of giant clam. One cooked with coconut water, and the other raw and marinated in a vinegar made from toddy. Both were chewy, like eating rubber bands. Except rubber bands that taste like the guts of a hermit crab. Iou promised me he would make me a hermit crab that I would love. But I don’t believe him.
 

@@ -1,15 +1,13 @@
 ---
-title: Wednesday, 15 March 2023, 7:36 pm
+title: Wednesday, 15 March 2023, evening
 date: 2023-03-15
 tags:
   - journal
 layout: layouts/journal.njk
-bodyclass: jourback
 ---
-**Wednesday, 15 March 2023**  
-**7:36 PM**  
-**81.1° 2°00’ 3”N. 157°26’ 02”W**  
-**London, Kiritimati**
+#### 7:36 PM
+#### 81.1°00’3”N. 157°26’02”W.
+#### London, Kiritimati
 
 ![Sunset from the porch](/assets/sunset.jpg)
 
