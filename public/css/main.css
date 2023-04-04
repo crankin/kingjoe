@@ -40,7 +40,7 @@ a:hover {
   background-repeat: no-repeat;
   }
 
-.jrback {
+.journal {
   background: url(/assets/map1-big.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -161,6 +161,16 @@ main li {
   color: var(--joe-black);
   }
 
+  .gallery img {
+    margin: 2rem 0 0 0;
+  }
+
+  p.caption {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+
 footer {
   background: var(--joe-back);
   padding: 1rem 3vw;
@@ -168,3 +178,44 @@ footer {
   margin-top: 1.5rem;
   text-align: center;
   }
+
+
+.journal header,
+.journal footer {
+  width: max-content;
+}
+
+.journal .wrapper {
+  width: min(80rem, 100% - 4rem);
+}
+
+.journal main {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr 1fr;
+  }
+
+/* .journal .wrapper {
+    width: min(80rem, 100% - 4rem);
+    display: grid;
+    grid-gap: 0.5rem;
+    margin: 0 auto 0;
+    grid-template-areas: "headspace gallery"
+    "entry gallery"
+    "footspace gallery";
+    }
+
+
+    .journal header {
+      grid-area: headspace;
+    }
+
+    .journal .writing {
+      grid-area: entry;
+    }
+
+    .journal .gallery {
+grid-area: galery;    }
+
+.journal footer {
+grid-area: footspace;    } */

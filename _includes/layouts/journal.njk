@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 ---
 
+<div class="writing">
 {% if title %}<h2>{{ title }}</h2>{% endif %}
 {% if subtitle %}<h4>{{ subtitle }}</h4>{% endif %}
 
@@ -13,3 +14,17 @@ layout: layouts/base.njk
     <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
   {%- endfor -%}
 </ul>
+</div>
+
+
+<div class="gallery">
+  {% for item in photos %}
+  <img src="{{ metadata.imglocation }}/{{ item.img }}"
+    alt="{{ item.caption }}"
+    srcset="{{ metadata.imglocation }}/w_480/{{ item.img }} 480w,
+            {{ metadata.imglocation }}/w_640/{{ item.img }} 640w,
+            {{ metadata.imglocation }}/{{ item.img }} 800w"
+    sizes="(max-width: 480px) 100vw, (max-width: 960px) 640px, 800px">
+    <p class="caption">{{ item.caption }}</p>
+  {% endfor %}
+</div>

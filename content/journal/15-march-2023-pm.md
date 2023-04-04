@@ -1,9 +1,16 @@
 ---
 title: Wednesday, 15 March 2023, evening
 date: 2023-03-15
-tags:
-  - journal
 layout: layouts/journal.njk
+photos:
+ - img: 03-15-pm/1-Marc-Grandpa1960.jpg
+   caption: Marc and Joe English, circa 1960. Malden, Massachusetts
+ - img: 03-15-pm/2-license-plate-maker.jpg
+   caption: All license plates are hand-made. This is Nalei Taabe, who made mine.
+ - img: 03-15-pm/3-license-plate.jpg
+   caption: No caption needed.
+ - img: 03-15-pm/4-bike-with-plate.jpg
+   caption: YAMASAKI 125C. $2250 AUS = $1400US. What’s the price of an auto rental for two months? Doesn’t matter, as there are no auto rentals on the island. Chrome starts to rust after a week. I’ve customized it, via stencil and spray paint, adding the palm tree logo I’ve used since I lived in Boston. On the back of the bike, a basket I put on (most folks use similar), and on top of that, the pandanus sleeping mat I picked up from the last woman in London that makes them. NOT particularly comfortable, but they do keep you off the ground.
 ---
 #### 7:36 PM
 #### 81.1°00’3”N. 157°26’02”W.

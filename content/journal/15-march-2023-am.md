@@ -1,9 +1,14 @@
 ---
 title: Wednesday, 15 March 2023, morning
 date: 2023-03-15
-tags:
-  - journal
 layout: layouts/journal.njk
+photos:
+ - img: 03-15-am/1-reseach-document.jpg
+   caption: "Ministry of Overseas Development Land Resource Study: An Investigation of the Coconut Growing Potential of Christmas Island Volume 1 The Environment and the Plantations. By R. N. Jenkins and M. A. Foale Land Resources Division / Directorate of Overseas Surveys, Tolworth, Surrey, England 1968. Courtesy of John Bryden."
+ - img: 03-15-am/2-map.jpg
+   caption: Gorgeous — and accurate — British maps, circa 1968, from the Land Resource Study. Courtesy of John Bryden.
+ - img: 03-15-am/3-bryden-family-circa1980s.jpg
+   caption: John Bryden, with family, 1908s. Courtesy of John Bryden
 ---
 #### 10:11 am
 #### London, Kiritimati
