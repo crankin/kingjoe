@@ -35,15 +35,15 @@ a:hover {
   }
 
 .mapback {
-  background: url(/assets/map3-big.jpg);
+  background: url(/assets/map3-faded.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   }
 
 .journal {
-  background: url(/assets/map1-big.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: url(/assets/map2-faded.jpg);
+  background-size: contain;
+  /* background-repeat: no-repeat; */
   }
 
 .wrapper {
@@ -66,7 +66,7 @@ header {
   }
 
 header h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 1;
   margin: 0.5rem 0;
   text-transform: uppercase;
@@ -173,10 +173,12 @@ main li {
 
 footer {
   background: var(--joe-back);
-  padding: 1rem 3vw;
-  border-top: 2px dashed var(--joe-black);
+  padding: 0.25rem 3vw;
+  /* border-top: 2px dashed var(--joe-black); */
+  border: 1px solid var(--joe-black);
   margin-top: 1.5rem;
-  text-align: center;
+  /* text-align: center; */
+  font-size: 0.875rem;
   }
 
 
@@ -191,7 +193,7 @@ footer {
 
 .journal main {
   display: grid;
-  gap: 2rem;
+  gap: 4vw;
   grid-template-columns: 1fr 1fr;
   }
 

@@ -1,7 +1,7 @@
 ---
 title: Journal
 layout: layouts/home.njk
-bodyclass: jrback
+bodyclass: mapback
 ---
 
 Read Marc's journal entries during his time on Kiritimati.

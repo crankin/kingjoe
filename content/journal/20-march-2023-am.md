@@ -1,9 +1,20 @@
 ---
 title: Monday, 20 March 2023, morning
 date: 2023-03-20
-tags:
-  - journal
 layout: layouts/journal.njk
+photos:
+ - img: 03-20-am/2-abbe-rougiers-house.jpg
+   caption: Once upon a time Fr. Emmanuel Rougier had a wonderful clapboard home in Paris, which he called Kaiau. Today, there is not a trace of the home, only a few unsubstantiated wells.
+ - img: 03-20-am/3-floor-plan-kaiau.jpg
+   caption: Floorplan for Rougier’s Paris home. This is all that remains of the house, an idea. Not a stone or board or piece of metal remains after more than 100 years.
+ - img: 03-20-am/4-ioss-tent.jpg
+   caption: Raining and nowhere to go? Break out the watercolors. Inside the main tent of Iou and his wife, Teraibwebwe.
+ - img: 03-20-am/motorbike-to-paris-1.jpg
+   caption:
+ - img: 03-20-am/motorbike-to-paris-2.jpg
+   caption:
+ - img: 03-20-am/motorbike-to-paris-3.jpg
+   caption: The four-hour “shortcut” from London to Paris involved threading the myriad salt lakes and over hardened coral floors, fording lagoons, and weaving our way through a variable maze of salt bush and, eventually, coconut palms. On a bone-shaking 150cc Chinese motorcycle, which started to rust after the first week of owning it.
 ---
 #### 6:33 am  
 #### 73° rains  
@@ -19,7 +30,7 @@ We arrived from London yesterday. I was told it would be a two hour ride,  thoug
 
 Were I to have tried this route, not the main road,  but via, the sandy, coral roads, that skirt and weave through and around the many lagoons and lakes, I would have been utterly lost, and most likely never found my way out or have anybody find me. There are no buzzards here to tip off someone about a carcass anywhere.
 
-We left London at 3:09 on Sunday afternoon, and a glorious blue sky, with high clouds, and not a hint of rain. I followed Iou (pronounce YOW) and his Teriabwebwe, who were planning the ride back to Poland, where they live, in Paris, where he works. I had only learned of this the day before, when I was asking Iou how he gets back and forth between London and Paris.
+We left London at 3:09 on Sunday afternoon, and a glorious blue sky, with high clouds, and not a hint of rain. I followed Iou (pronounce YOW) and his wife, Teriabwebwe, who were planning the ride back to Poland, where they live, in Paris, where he works. I had only learned of this the day before, when I was asking Iou how he gets back and forth between London and Paris.
 
 On Saturday, Rodney Edwards had volunteered to take me by boat from London to Paris, that I may investigate and walk the land that my grandfather did, when he worked for Fr.  Emmanuel Rougier. Iou, 54, is caretaker of this end of Paris, the long-gone home site of Rougier,  where the priest  would stay with his nieces and their governess. Iou knows the land. And when I ask if he takes a boat Paris, he says no, he takes his motorcycle, with his wife Teraibwebwe on the back.
 
@@ -66,8 +77,8 @@ Iou and Teraibwebwe sleep on a thin foam mattress. I pulled out my thin air matt
 
 I was told in preparation, I might need a mosquito net. No one told me I would need a rat net.
 
-Teraibwebwe finds a new, large mosquito net, and she a. nd her husband deftly install it, pack my gear in it.
+Teraibwebwe finds a new, large mosquito net, and she and her husband deftly install it, place my gear in it.
 
 I’m pleased to say that while I was greeted with rain, I met no rats. And yet at this very moment, I look up and see two tiny rat turds on the net above me.
 
-When I finally slept from the tent, the rain has passed, so they were still clouds about, I can see the sun working its way through about two hands rising. Frigate, birds, and turns and boobies fly everywhere. Teraibwebwe has swept around camp. Iou has set off, wife behind him, on his bike. He is off to catch octopus.
+When I finally stepped from the tent, the rain has passed, there were still clouds about, I can see the sun working its way through about two hands rising. Frigate birds and turns and boobies fly everywhere. Teraibwebwe has swept around camp. Iou has set off, wife behind him, on his bike. He is off to catch octopus.
