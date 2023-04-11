@@ -3,8 +3,7 @@ title: Orientation
 layout: layouts/home.njk
 bodyclass: mapback
 ---
-
-<!-- <img src="/assets/map4-800.jpg" alt="Joe's Hill on a map"> -->
+![Sunset from the porch](/assets/sunset.jpg)
 
 In 1919, Marc English’s grandfather, Joe English, was rescued by Admiral Lord Jellicoe, HM Royal Navy after being marooned on the world’s largest coral atoll, due to the Spanish Flu pandemic.
 

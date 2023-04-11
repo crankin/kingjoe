@@ -16,8 +16,6 @@ photos:
 #### 81.1°00’3”N. 157°26’02”W.
 #### London, Kiritimati
 
-![Sunset from the porch](/assets/sunset.jpg)
-
 I hear children playing across the street, a small cylinder motorcycle comes around the bend, coconut palm trees rustle above my head from the ever-present trade winds from the east. A bell clangs in the distance. Is it a real bell? Or a recording? I have yet to figure that one out. Maybe the latter. Am certain it was a recording outside the Catholic manweaba a few days ago.
 
 Regardless, that’s what it sounds like at the moment.

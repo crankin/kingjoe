@@ -169,6 +169,7 @@ main li {
     margin-top: 0;
     margin-bottom: 1rem;
     font-size: 0.9rem;
+    color: var(--joe-blue);
   }
 
 footer {
@@ -196,6 +197,15 @@ footer {
   gap: 4vw;
   grid-template-columns: 1fr 1fr;
   }
+
+.newspaper {
+    margin: 1rem auto;
+    text-align:center;
+}
+
+.newspaper a:hover {
+    background: transparent;
+}
 
 /* .journal .wrapper {
     width: min(80rem, 100% - 4rem);
