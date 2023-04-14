@@ -172,6 +172,10 @@ main li {
     color: var(--joe-blue);
   }
 
+  .gallery video {
+      max-width: 100%;
+    }
+
 footer {
   background: var(--joe-back);
   padding: 0.25rem 3vw;

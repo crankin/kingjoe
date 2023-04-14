@@ -2,6 +2,8 @@
 title: Monday, 20 March 2023, evening
 date: 2023-03-20
 layout: layouts/journal.njk
+video: https://res.cloudinary.com/darnbitpw/video/upload/v1681441513/kingjoe/03-20-pm/4-copra-making-poland.mp4
+vcaption: Copra making in Poland.  Pick coconuts that are ready.  If still green, allow a month to dry. Split in half, scoop out the flesh. Allow to dry in sun for a week. Cover, if rainy. After a week, fill sacks. Sacks will eventually be shipped to Tahiti, Fiji, and in the old days, Honolulu, where dried meats will be compressed for oil. Coconut oil, to be found in many things, from soap to beauty products.
 photos:
  - img: 03-20-pm/1-octopus.jpg
    caption: Octopus is caught by hand, using a metal hook, about 18” long, attached to a wooden handle, maybe a foot long. They are found hiding under rocks.

@@ -2,6 +2,8 @@
 title: Monday, 20 March 2023, morning
 date: 2023-03-20
 layout: layouts/journal.njk
+video: https://res.cloudinary.com/darnbitpw/video/upload/v1681434584/kingjoe/03-20-am/1-paris-rain.mp4
+vcaption: Paris rain
 photos:
  - img: 03-20-am/2-abbe-rougiers-house.jpg
    caption: Once upon a time Fr. Emmanuel Rougier had a wonderful clapboard home in Paris, which he called Kaiau. Today, there is not a trace of the home, only a few unsubstantiated wells.
@@ -16,8 +18,8 @@ photos:
  - img: 03-20-am/motorbike-to-paris-3.jpg
    caption: The four-hour “shortcut” from London to Paris involved threading the myriad salt lakes and over hardened coral floors, fording lagoons, and weaving our way through a variable maze of salt bush and, eventually, coconut palms. On a bone-shaking 150cc Chinese motorcycle, which started to rust after the first week of owning it.
 ---
-#### 6:33 am  
-#### 73° rains  
+#### 6:33 am
+#### 73° rains
 #### Paris
 
 It’s been raining most of the night. And of course, the ever-present easterly trade winds blow at 15 or more miles an hour.

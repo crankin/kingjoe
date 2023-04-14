@@ -16,8 +16,13 @@ layout: layouts/base.njk
 </ul>
 </div>
 
-
 <div class="gallery">
+    {% if video %}
+    <video controls>
+        <source src="{{ video }}" type="video/mp4">
+    </video>
+    <p class="caption">{{ vcaption }}</p>
+    {% endif %}
   {% for item in photos %}
   <img src="{{ metadata.imglocation }}/{{ item.img }}"
     alt="{{ item.caption }}"
