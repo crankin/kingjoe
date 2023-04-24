@@ -8,12 +8,18 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
-<h3 class="entrylist">Journal Entries</h3>
+{% set previousPost = collections.journal | getPreviousCollectionItem %}
+{% set nextPost = collections.journal | getNextCollectionItem %}
+<p style="text-align:center;">{% if previousPost %}<a href="{{ previousPost.url }}">&larr; {{ previousPost.data.title }}</a>{% endif %}
+{% if nextPost %} | <a href="{{ nextPost.url }}">{{ nextPost.data.title }} &rarr;</a>{% endif %}</p>
+<p style="text-align:center;"><a href="/journal#entries">All Journal Entries</a></p>
+
+<!-- <h3 class="entrylist">Journal Entries</h3>
 <ul class="entries">
   {%- for entry in collections.journal -%}
     <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
   {%- endfor -%}
-</ul>
+</ul> -->
 </div>
 
 <div class="gallery">

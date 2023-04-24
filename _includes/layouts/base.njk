@@ -13,12 +13,14 @@
     <div class="wrapper">
         <header>
             <h1>{{ metadata.title }}</h1>
+            <p class="temps">{% roundit weather.main.temp %}&deg; F</p>
             <nav>
                 <p><a href="/">main</a></p>
                 <p><a href="/about">about</a></p>
                 <p><a href="/journal">journal</a></p>
                 <p><a href="/press">press</a></p>
             </nav>
+
         </header>
 
         <main>

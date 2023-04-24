@@ -56,31 +56,59 @@ a:hover {
   }
 
 header {
-  display: flex;
-  flex-direction: column;
-  border-bottom: 2px dashed var(--joe-black);
-  align-items: center;
-  padding: 0.5rem 3vw 1rem 3vw;
-  margin-bottom: 1.5rem;
-  background: var(--joe-back);
+  display: grid;
+grid-template-columns: 85% 15%;
+grid-template-rows: auto 1fr;
+border: 2px dashed var(--joe-black);
+align-items: center;
+margin-bottom: 1.5rem;
+background: var(--joe-back);
   }
 
 header h1 {
-  font-size: 1.5rem;
-  line-height: 1;
-  margin: 0.5rem 0;
-  text-transform: uppercase;
-  color: var(--joe-bg1);
+  font-size: 1.4rem;
+line-height: 1;
+margin: 0;
+text-transform: uppercase;
+color: var(--joe-bg1);
+grid-column: 1;
+padding: 0.5rem 1rem;
+border-right: 2px dashed black;
+border-bottom: 2px dashed black;
   }
 
-nav { display: flex; }
+  .temps {
+    grid-row: 1/3;
+    grid-column: 2;
+    padding: 0 1rem;
+    align-self: center;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin: 0;
+    font-size: 1.4rem;
+    font-weight: 500;  }
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  grid-template-columns: 25% 25% 25% 25%;
+  align-items: stretch;
+ }
 
 nav p {
-  margin-left: 1.3rem;
   text-transform: uppercase;
+border-right: 2px dashed black;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: stretch;
+flex: 0 1 25%;
+margin: 0;
+padding: 0.5rem 0;
   }
 
-nav p:first-child { margin-left: 0; }
+/* nav p:first-child { margin-left: 0; } */
 
 nav a {
   font-size: 1rem;
@@ -187,7 +215,10 @@ footer {
   }
 
 
-.journal header,
+.journal header {
+  width: 50vw;
+}
+
 .journal footer {
   width: max-content;
 }
