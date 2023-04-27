@@ -8,9 +8,10 @@ module.exports = async function() {
   let url = "https://api.openweathermap.org/data/2.5/weather?lat=1&lon=157&units=imperial&appid=" + key;
 
   /* This returns a promise */
-  
+
   return EleventyFetch(url, {
-    duration: "1h", // save for 1 day
-    type: "json"    // we’ll parse JSON for you
+    duration: "0s",
+    type: "json",
+    directory: "/tmp/.cache/"
   });
 };

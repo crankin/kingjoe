@@ -15,7 +15,8 @@
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
-    "@11ty/eleventy-plugin-rss": "^1.2.0"
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "netlify-cli": "^14.2.1"
   },
   "author": "",
   "license": "MIT"

@@ -6,19 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
     <title>{{ title }} + {{ metadata.title }}</title>
+    <link rel="stylesheet" href="/css/baguetteBox.min.css">
+    <script src="/js/baguetteBox.min.js" async></script>
     <link rel="stylesheet" href="/css/main.css">
 </head>
 
 <body class="{{ bodyclass }}">
     <div class="wrapper">
         <header>
-            <h1>{{ metadata.title }}</h1>
+            <h1><a href="/">{{ metadata.title }}</a></h1>
             <p class="temps">{% roundit weather.main.temp %}&deg; F</p>
             <nav>
-                <p><a href="/">main</a></p>
                 <p><a href="/about">about</a></p>
                 <p><a href="/journal">journal</a></p>
                 <p><a href="/press">press</a></p>
+                <p><a href="/gallery-one">galleries</a></p>
+                <p><a href="#contact">contact</a></p>
             </nav>
 
         </header>
@@ -27,13 +30,14 @@
             {{ content | safe }}
         </main>
 
-        <footer>
+        <footer id="contact">
+            <h3>Contact</h3>
             <p>Follow Marc on <a href="https://www.instagram.com/marc_english/">Instagram</a> and <a
-                    href="https://www.facebook.com/marc.english">Facebook</a>
-            <p>
+                    href="https://www.facebook.com/marc.english">Facebook</a> | <a href="mailto:shaman@marcenglish.design">Email</a> Marc</p>
             <p>&copy;2023. All photos by Marc English except where specified.</p>
         </footer>
     </div>
+
 </body>
 
 </html>

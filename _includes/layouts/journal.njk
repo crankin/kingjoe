@@ -13,13 +13,6 @@ layout: layouts/base.njk
 <p style="text-align:center;">{% if previousPost %}<a href="{{ previousPost.url }}">&larr; {{ previousPost.data.title }}</a>{% endif %}
 {% if nextPost %} | <a href="{{ nextPost.url }}">{{ nextPost.data.title }} &rarr;</a>{% endif %}</p>
 <p style="text-align:center;"><a href="/journal#entries">All Journal Entries</a></p>
-
-<!-- <h3 class="entrylist">Journal Entries</h3>
-<ul class="entries">
-  {%- for entry in collections.journal -%}
-    <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
-  {%- endfor -%}
-</ul> -->
 </div>
 
 <div class="gallery">
@@ -30,12 +23,11 @@ layout: layouts/base.njk
     <p class="caption">{{ vcaption }}</p>
     {% endif %}
   {% for item in photos %}
-  <img src="{{ metadata.imglocation }}/{{ item.img }}"
+  <img src="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ item.img }}"
     alt="{{ item.caption }}"
-    srcset="{{ metadata.imglocation }}/w_480/{{ item.img }} 480w,
-            {{ metadata.imglocation }}/w_640/{{ item.img }} 640w,
-            {{ metadata.imglocation }}/{{ item.img }} 800w"
-    sizes="(max-width: 480px) 100vw, (max-width: 960px) 640px, 800px">
+    srcset="{{ metadata.imglocation }}/w_320/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ item.img }} 320w,
+            {{ metadata.imglocation }}/w_640/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ item.img }} 640w"
+    sizes="(max-width: 320px) 100vw, 640px">
     <p class="caption">{{ item.caption }}</p>
   {% endfor %}
 </div>
