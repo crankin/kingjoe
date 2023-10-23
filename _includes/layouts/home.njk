@@ -11,5 +11,10 @@ layout: layouts/base.njk
   {%- for entry in collections.journal -%}
     <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
   {%- endfor -%}
-  <!-- <li><a href="/journal">View all entries</a></li> -->
+</ul>
+
+<h3 class="entrylist">Photo Galleries</h3>
+<ul class="entries">
+<li><a href="/gallery-one">Gallery One</a></li>
+<li><a href="/gallery-two">Gallery Two</a></li>
 </ul>
