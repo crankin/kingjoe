@@ -2,19 +2,19 @@
 layout: layouts/base.njk
 ---
 
-{% if title %}<h2>{{ title }}</h2>{% endif %}
-
-{{ content | safe }}
+{% if title %}
+<h2>{{ title }}</h2>
+{% endif %} {{ content | safe }}
 
 <h3 class="entrylist" id="entries">Journal Entries</h3>
 <ul class="entries">
-  {%- for entry in collections.journal -%}
-    <li><a href='{{ entry.url }}'>{{ entry.data.title }}</a></li>
-  {%- endfor -%}
+    {%- for entry in collections.journal -%}
+    <li><a href="{{ entry.url }}">{{ entry.data.longdate }} {% if entry.data.title %}// {{ entry.data.title }}{% endif %}</a></li>
+    {%- endfor -%}
 </ul>
 
 <h3 class="entrylist">Photo Galleries</h3>
 <ul class="entries">
-<li><a href="/gallery-one">Gallery One</a></li>
-<li><a href="/gallery-two">Gallery Two</a></li>
+    <li><a href="/gallery-one">Gallery One</a></li>
+    <li><a href="/gallery-two">Gallery Two</a></li>
 </ul>

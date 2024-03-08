@@ -1,5 +1,6 @@
 ---
-title: Monday, 20 March 2023, morning
+longdate: Monday, 20 March 2023
+title: Paris
 date: 2023-03-20
 layout: layouts/journal.njk
 video: https://res.cloudinary.com/darnbitpw/video/upload/v1681434584/kingjoe/03-20-am/1-paris-rain.mp4

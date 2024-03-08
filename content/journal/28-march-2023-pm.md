@@ -1,13 +1,12 @@
 ---
-title: Tuesday, 28 March 2023, evening
+longdate: Tuesday, 28 March 2023, evening
+title: The Ends of the Earth, at the Ends of the Earth
 date: 2023-03-28
 layout: layouts/journal.njk
 ---
 #### 2pm?
 #### 1°42‘08“ N
 #### 157°10‘1“ W
-
-## The Ends of the Earth, at the Ends of the Earth.
 
 It is gorgeous.
 

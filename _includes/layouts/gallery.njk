@@ -2,26 +2,39 @@
 layout: layouts/base.njk
 ---
 
-<p style="text-align: right;"><a href="/gallery-one">Gallery One</a> | <a href="/gallery-one">Gallery Two</a></p>
+<p style="text-align: right">
+    <a href="/gallery-one">Gallery One</a> |
+    <a href="/gallery-one">Gallery Two</a>
+</p>
 
-{% if title %}<h2>{{ title }}</h2>{% endif %}
+{% if title %}
+<h2>{{ title }}</h2>
+{% endif %}
 
 <ul class="photogallery">
-  {% if galname == "gallery1" %}
-  {% for photo in gallery1 %}
-    <li><a href="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"><img src="{{ metadata.imglocation }}/w_200/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"></a></li>
-  {% endfor %}
-  {% else %}
-  {% for photo in gallery2 %}
-    <li><a href="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"><img src="{{ metadata.imglocation }}/w_200/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"></a></li>
-  {% endfor %}
-  {% endif %}
+    {% if galname == "gallery1" %} {% for photo in gallery1 %}
+    <li>
+        <a
+            href="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"
+            ><img
+                src="{{ metadata.imglocation }}/w_200/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"
+        /></a>
+    </li>
+    {% endfor %} {% else %} {% for photo in gallery2 %}
+    <li>
+        <a
+            href="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"
+            ><img
+                src="{{ metadata.imglocation }}/w_200/{{ cloudinary }}/kingjoe/{{ galname }}/{{ photo }}"
+        /></a>
+    </li>
+    {% endfor %} {% endif %}
 </ul>
 
 <script>
-window.addEventListener('load', function() {
-  baguetteBox.run('.photogallery');
-});
+    window.addEventListener("load", function () {
+        baguetteBox.run(".photogallery");
+    });
 </script>
 <!-- <ul class="photogallery">
   {% for photo in gallery1 %}

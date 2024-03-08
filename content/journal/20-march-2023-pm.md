@@ -1,5 +1,6 @@
 ---
-title: Monday, 20 March 2023, evening
+longdate: Monday, 20 March 2023
+title: Poland
 date: 2023-03-20
 layout: layouts/journal.njk
 video: https://res.cloudinary.com/darnbitpw/video/upload/v1681441513/kingjoe/03-20-pm/4-copra-making-poland.mp4

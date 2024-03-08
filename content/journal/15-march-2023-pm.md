@@ -1,5 +1,6 @@
 ---
-title: Wednesday, 15 March 2023, evening
+longdate: Wednesday, 15 March 2023
+title: Motorcycles & I-Matangs
 date: 2023-03-15
 layout: layouts/journal.njk
 photos:
@@ -44,7 +45,7 @@ I’ve spent the last week doing everything from befriending locals, too, being 
 
 I bought that cheap motorcycle because it was pragmatic as I can only go to the well so many times asking locals to drive me somewhere even if I pay them as I don’t want to be a burden. That I bought a motorcycle and got a drivers license for the Republic of Kiritibati in less than five days should tip one off to how I’m used to getting things done.
 
-I have met the other Matangs – an 80 year old Scotsman, who has been here since the age of 23 and knows the Pacific inside and out, a mysterious and intelligent Frenchman, who lives in a freight container, and two 30-something Aussies here for a water project that is jointly funded by the EU, New Zealand, and Kiribati. I am the Yank, with a connection here longer than all their years here put together.
+I have met the other I-Matangs – an 80 year old Scotsman, who has been here since the age of 23 and knows the Pacific inside and out, a mysterious and intelligent Frenchman, who lives in a freight container, and two 30-something Aussies here for a water project that is jointly funded by the EU, New Zealand, and Kiribati. I am the Yank, with a connection here longer than all their years here put together.
 
 The local representative, for the minister of tourism has asked me to join his team, surveying the island with GPS, to create a new tourist map, and I am told I may be able to get a few minutes with the republic's President, who will be here within a matter of weeks. And then there’s the stuff I want to do. Need to do. Paint, sketch, write, interview, film, and experience as much as I can of the people and culture here and how my grandfather and I share many of the same experiences.
 

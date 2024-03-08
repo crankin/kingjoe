@@ -1,12 +1,11 @@
 ---
-title: Friday, 7 April 2023, morning
+longdate: Friday, 7 April 2023, morning
+title: Paris. Where the wild things are
 date: 2023-04-07
 layout: layouts/journal.njk
 ---
 #### 5:49 AM
 #### Paris
-
-## Paris: Where the wild things are.
 
 Sitting here looking at the lights of London, as the full moon is about an hour from dropping beyond the western horizon. There’s a glow to the east, a faint peach color, highlighting the silhouette of pale, gray-purple clouds.
 

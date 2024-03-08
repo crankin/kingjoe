@@ -1,5 +1,6 @@
 ---
-title: Wednesday, 15 March 2023, morning
+longdate: Wednesday, 15 March 2023
+title: 1968 Coconut Growing Potential
 date: 2023-03-15
 layout: layouts/journal.njk
 photos:

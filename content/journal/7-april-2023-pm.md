@@ -1,5 +1,6 @@
 ---
-title: Friday, 7 April 2023, day
+longdate: Friday, 7 April 2023, day
+title: "Good Friday; Paris - Joe's Hill - London"
 date: 2023-04-07
 layout: layouts/journal.njk
 ---
@@ -8,8 +9,6 @@ layout: layouts/journal.njk
 #### 17 km
 #### 9:10 AM
 #### 88°
-
-## Leaving Paris
 
 <pre>______________////|__________________////|____</pre>
 

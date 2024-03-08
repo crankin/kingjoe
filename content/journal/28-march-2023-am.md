@@ -1,11 +1,9 @@
 ---
-title: Tuesday, 28 March 2023, morning
+longdate: Tuesday, 28 March 2023, morning
+title: Fanning Plantation
 date: 2023-03-28
 layout: layouts/journal.njk
 ---
-
-## Fanning plantation
-
 from (numismondo.net/pm/fai/)[https://numismondo.net/pm/fai/]
 
 <pre>______________////|__________________////|____</pre>

@@ -1,12 +1,11 @@
 ---
-title: Wednesday, 29 March 2023, evening
+longdate: Wednesday, 29 March 2023
+title: I am here because of coconuts
 date: 2023-03-29
 layout: layouts/journal.njk
 ---
 #### 86°
 #### inside the house 82.4°
-
-## I am here because of coconuts
 
 In the last 45 minutes I have attempted to start telling this story, was interrupted immediately, for a good cause, and then helped Rodney and his wife, Taona, bag copra. So on with the story.
 
