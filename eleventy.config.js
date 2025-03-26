@@ -1,6 +1,6 @@
 //const pluginRss = require("@11ty/eleventy-plugin-rss");
 //const pluginWebc = require("@11ty/eleventy-plugin-webc");
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+//const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 
 module.exports = function(eleventyConfig)  {
