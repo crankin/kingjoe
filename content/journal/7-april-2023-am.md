@@ -11,7 +11,7 @@ Sitting here looking at the lights of London, as the full moon is about an hour 
 
 It’s the brightness of the moon that still creates my shadow that reaches toward the coming dawn.
 
-I look across the three mile channel from ocean to lagoon, toLondon, see the lights, three of them at the cargo pier cluster of lights in the middle, two lights at the eastern point near the old port. I know what London already sounds like at this time of day, morning starting to break. Roosters are calling. Motorcycle engines are starting, someone, somewhere still has music playing. Day begins.
+I look across the three mile channel from ocean to lagoon, to London, see the lights, three of them at the cargo pier cluster of lights in the middle, two lights at the eastern point near the old port. I know what London already sounds like at this time of day, morning starting to break. Roosters are calling. Motorcycle engines are starting, someone, somewhere still has music playing. Day begins.
 
 The tones here in Paris offer stark, utter contrast. The only sound is the ever-present easterly winds rustling through coconut palm fronds, nothing more.
 
@@ -43,11 +43,11 @@ I chided them for sitting on the stacked lumber, and not on the ground as they u
 
 The tranquility was broken my first night here, just around midnight. I heard someone calling to Iou. Raising my head from my makeshift pillow, I could see a man’s moonlit silhouette, leaning toward his hut, calling.
 
-Earlier, while asleep under a new coconut palm thatch roof, I could’ve sworn I’d heard music coming from where I now sit on the huge concrete blocks above the beach, that face London. The blocks once held enormous fuel tanks back in London. In my groggy daze, I imagined people had driven up to the point here from Poland, to appreciate the beauty of the moonlit night. But I was surprised the music was so faint.  Based on my experience of London, Tabwakea, Poland, the music would be cranked up. I went back to sleep.
+Earlier, while asleep under a new coconut palm thatch roof, I could’ve sworn I’d heard music coming from where I now sit on the huge concrete blocks above the beach, that face London. The blocks once held enormous fuel tanks back in London. In my groggy daze, I imagined people had driven up to the point here from Poland, to appreciate the beauty of the moonlit night. But I was surprised the music was so faint. Based on my experience of London, Tabwakea, Poland, the music would be cranked up. I went back to sleep.
 
 Discussing the surprise guest with Iou and Tierrebwebwe, I learned he is a young man whom I photographed in Poland a couple weeks back, along with his brother and other men. In his early 20s, handsome, slim, tattooed, he didn’t say anything to me at all, but instead very much hovered next to me no matter what I was doing.
 
-Then I saw him when next in Poland, my first night back over on this side of the island, Tuesday night, near the manweaba, as I spoke with Keiti [Kasey]. Keiti and I sat on a raised wooden platform, and watched as he dug in the sand at the foundation with his hands, where he had squirreled something away beneath the concrete slab of the manweaba. Keiti told me he was crazy, that he would steal things from people, breaking into their homes and property.
+Then I saw him when next in Poland, my first night back over on this side of the island, Tuesday night, near the manweaba, as I spoke with Keiti (Kasey). Keiti and I sat on a raised wooden platform, and watched as he dug in the sand at the foundation with his hands, where he had squirreled something away beneath the concrete slab of the manweaba. Keiti told me he was crazy, that he would steal things from people, breaking into their homes and property.
 
 The night he woke me, calling to Iou, he had walked here from Poland. Under that full moon is just so easy to walk, so easy to see, even though it’s about 6 miles away. It must have been a wonderful stroll, but for what was going through his head. It seems he wanted to go to London and thought Iou could bring him there. But Iou has no boat. Iou stayed with up him for an hour or so before watching him leave, singing to himself. I heard none of this, having fallen back to sleep.
 
@@ -55,11 +55,11 @@ I spoke to Iou about the music I heard, could’ve sworn I had heard earlier, be
 
 “What were you listening to,” I asked? “Bob Marley!” said Iou.
 
-I laughed, and told them I appreciate Marley, even got to see him play back at Harvard stadium a year or so before he died.
+I laughed, and told them I appreciate Marley, even got to see him play back at Harvard Stadium a year or so before he died.
 
 Bob Marley, a pair of lovers, and seclusion in a tropical paradise called Paris.
 
-It’s almost 6:30am. The dark water has not yet turned the bright and magnificent turquoise of day, but you can tell it’s coming. The whitecaps cannot be seen at the southern tip of Wood Island, where Iou and I snorkeled for an hour and a half yesterday.
+It’s almost 6:30am AM. The dark water has not yet turned the bright and magnificent turquoise of day, but you can tell it’s coming. The whitecaps cannot be seen at the southern tip of Wood Island, where Iou and I snorkeled for an hour and a half yesterday.
 
 High cumulus clouds, still violet. Their crowns, touched with chiffon pinks and traces of magenta, ring the island, ring the lagoon, from the northern peninsula and London, around the almost circular lagoon to the south east and Poland.
 

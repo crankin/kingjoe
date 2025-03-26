@@ -54,7 +54,7 @@ But it’s nice to know Anna and her son Bob, who owns and manage JMB, as I feel
 
 I try to find the home of Poe, who is supposed to be making a shirt for me and repairing a pair of shorts. I found her place once before, inadvertently, but I circle around and around amongst the undulating roads, the ramshackle homes of the village. I can’t find it. I stopped by her aunts, the teacher, Tureta, and we sit out back in her kia-kia by the lagoon and talk.
 
-She wants me to be comfortable, makes sure there is a pandanus sleeping mat for me to sit, as compared to just the bare wood of the platform. Tells her granddaughter to bring me two pillows. I don’t need them, but they arrive anyway. and while I will drink the local rainwater, another grandchild has run off to a local store to buy a bottle of water for me.
+She wants me to be comfortable, makes sure there is a pandanus sleeping mat for me to sit, as compared to just the bare wood of the platform. Tells her granddaughter to bring me two pillows. I don’t need them, but they arrive anyway, and while I will drink the local rainwater, another grandchild has run off to a local store to buy a bottle of water for me.
 
 She offers me food, and I only eat a couple bites, taking the container of papaya, noodles, and some kind of local green with me when I left.
 

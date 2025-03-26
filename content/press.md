@@ -17,20 +17,19 @@ English will document his journey through watercolors, sketches, and photographs
 English's journey is an attempt to explore his family history and discover how, despite generations and geography, we are all more connected than we think.  He is excited to share his experience with the world and hopes to inspire others to explore their own family histories. Read English's travel journal at King Joe 1916-2023, and following his journey on [Instagram @marc_english](https://www.instagram.com/marc_english/) and [Facebook @marc.english](https://www.facebook.com/marc.english).
 
 -----
-
-[Three Men Rescued by Lord Jellicoe](/assets/1919-SydneyMorningNews.pdf)
+[Three Men Rescued by Lord Jellicoe](assets/1919-SydneyMorningNews.pdf)
 _The Sydney Morning Herald_ 1919
 
-<div class="newspaper"><a href="/assets/1919-SydneyMorningNews.pdf"><img src="/assets/1919-SydneyMorningNews.jpg" alt="front page of the Sydney Morning Herald newspaper"></a></div>
+<div class="newspaper"><a href="/assets/1919-SydneyMorningNews.pdf"><img src="/assets/1919-SydneyMorningNews.jpg" alt="front page of the 1919 Sydney Morning News newspaper"></a></div>
 
 -----
-[Robinson Crusoe Back in Malden](/assets/1920-BostonGlobe.pdf)
+[Robinson Crusoe Back in Malden](assets/1920-BostonGlobe.pdf)
 _The Boston Sunday Globe_ 1920
 
 <div class="newspaper"><a href="/assets/1920-BostonGlobe.pdf"><img src="/assets/1920-BostonGlobe.jpg" alt="front page of the 1920 Boston Sunday Globe newspaper"></a></div>
 
 -----
-[Malden Atoll in Pacific Near H-Bomb Test Site](/assets/1957-BostonGlobe.pdf)
+[Malden Atoll in Pacific Near H-Bomb Test Site](assets/1957-BostonGlobe.pdf)
 _The Boston Globe_ 1957
 
 <div class="newspaper"><a href="/assets/1957-BostonGlobe.pdf"><img src="/assets/1957-BostonGlobe.jpg" alt="front page of the 1957 Boston Gloabe newspaper"></a></div>

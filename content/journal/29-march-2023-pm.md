@@ -19,12 +19,11 @@ That conversation, short and sweet, with a bit more regarding copra prices and p
 
 My intent in telling the story was to mention foods and generosity. Like much of life, in 45 minutes the story became that much richer.
 
-It was an unproductive morning, taking a breather, after my seven-hour adventure yesterday, riding to the Ends of the End of the Earth, the southeastern-most tip of the eastern, peninsula and back. Sometimes you need to just stop and take a nap. Of course I was already up before the sun and out taking photographs, and already had a couple hours under my belt by 9 o’clock, but the morning was a wash.
+It was an unproductive morning, taking a breather, after my seven-hour adventure yesterday, riding to the Ends of the End of the Earth, the southeastern-most tip of the eastern peninsula and back. Sometimes you need to just stop and take a nap. Of course I was already up before the sun and out taking photographs, and already had a couple hours under my belt by 9 o’clock, but the morning was a wash.
 
 Spent the afternoon looking through the thousands of photographs I’ve taken, trying to find appropriate images that would support any of this text.
 
-I took a dinner break just after five and rode down to the Kiritimati Dolphin,
-the other of two restaurants in town, with an equally limited menu. I had the half- cooked fish, which is a thing the locals love. No idea why it’s called half-cooked, as it seems fully cooked to me. Small chunks of fish, marinated in soy sauce, and cooked with a little bit of noodles, sliced okra, on a pile of rice.
+I took a dinner break just after five and rode down to the Kiritimati Dolphin, the other of two restaurants in town, with an equally limited menu. I had the half-cooked fish, which is a thing the locals love. No idea why it’s called half-cooked, as it seems fully cooked to me. Small chunks of fish, marinated in soy sauce, and cooked with a little bit of noodles, sliced okra, on a pile of rice.
 
 Just before seven I’m still sitting here working and I hear Rodney (Edwards, my neighbor, landlord, and new friend) call my name. There is no knocking on doors. Visitors call the name of the person they are visiting as they approach a home. Reminds me of when I was 10, 11, and as kids that’s how we’d do it in Woburn, Massachusetts.
 
@@ -43,7 +42,8 @@ I ate one, and after the first bite, declared it delicious. The fish minced, the
 The fish cakes are not the first food Rodney has brought over. I believe the first was a concoction of mashed pumpkin, with shaved or flaked coconut, thick like a milkshake. Some kind of watery custard added. The stuff is delicious, and I realize that the next time I make a pumpkin pie, I’m going to make it Pacific-style and add shredded coconut. Take it to new heights. I have not realized pumpkin is grown here, though not ubiquitous.
 
 I am mistaken about the pumpkin being the first thing Rodnehy brought over. It was actually spiny lobster, split right down the middle and grilled, the way they do it here, within a week of my arrival at his place. He brought three halves, of which I only ate one, saving the other two for later.
-Then Angus – my dentist neighbor, renting another home on Rodney’s small plot –  brought me the *kamwaiwai* – honey-like coconut nectar, mentioned elsewhere. Then there are the coconuts both Angus and Rodney have brought, that I have them in my fridge for cold coconut water whenever I desire.
+
+Then Angus – my dentist neighbor, renting another home on Rodney’s small plot –  brought me the *kamwaiwai* – honey-like coconut nectar, mentioned elsewhere. Then there are the coconuts both Angus and Rodney have brought, that I have them in my fridge for cold coconut water whenever I desire.
 
 When I do finally poke a hole in one of the coconuts, draining the contents into a cup I brought from Texas, I’ll then crack the nut open, the way I learned here, just giving it a good smack on a corner of concrete or against a coconut tree. I then scoop out the flesh with either my pocketknife or soup spoon, depending on where I am.
 
@@ -51,16 +51,15 @@ Sometimes I want to crack it open, then stick the nut back in the fridge, and by
 
 The other day Rodney brought over a plate of warm taro, that I may enjoy it at my leisure. Angus brought over a couple bunches of small bananas, how they are grown over on Fanning Island, each maybe four inches long. The day I  first saw Angus arriving back to this island, having been on the other islands of Tabueran and Teraina with his family, to perform dental work, I had seen him carrying a small stalk of green bananas.
 
-The kindness and generosity of Rodney, Peter, Angus, may well be hospitality towards a stranger, interested in their culture. But i’m sure it’s a cultural thing and they do it with each other.
+The kindness and generosity of Rodney, Peter, Angus, may well be hospitality towards a stranger, interested in their culture. But I’m sure it’s a cultural thing and they do it with each other.
 
-Then there is the copra. Rodney pays workers who come in from the bush on the far southern side of the island, near “Algeria,” where they live outside the law, $1.50 per kilo. In turn, after he dries the copra, the halved nuts, in his yard for several days, he and his wife bag it, then bring it to the weigh station where they will get four dollars per kilo, for the dried product.
+Then there is the copra. Rodney pays workers who come in from the bush on the far southern side of the island, near “Algeria,” where they live outside the law, $1.50 per kilo. In turn, after he dries the copra, the halved nuts, in his yard for several days, he and his wife bag it, then bring it to the weigh station where they will get $4 per kilo, for the dried product.
 
 Everywhere I have been on the island, I have found people drying copra in their yards. For some, it’s the only source of income. They dry it on sheets of plastic, tarps, or plywood, or the traditional way, on woven coconut-frond mats. Rodney is a government worker, a civil servant, yet he, like everybody else has his hand in on the action.
 
 My hands smell wonderful, and my skin feels wonderful, having helped bag more than a dozen sacks of copra. The dried flesh has a rich, sweet, oily, deep coconut aroma, and it’s wonderful.
 
-Fish and coconuts. Crucial to so many on this island. It’s what my grandfather lived on, just as these people do. Were it not for coconuts, my grandfather
-never would’ve had any reason to be here.
+Fish and coconuts. Crucial to so many on this island. It’s what my grandfather lived on, just as these people do. Were it not for coconuts, my grandfather never would’ve had any reason to be here.
 
 I am here because of coconuts.
 
