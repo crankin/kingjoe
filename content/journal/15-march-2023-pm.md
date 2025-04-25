@@ -7,7 +7,7 @@ photos:
  - img: 03-15-pm/1-Marc-Grandpa1960.jpg
    caption: Marc and Joe English, circa 1960. Malden, Massachusetts
  - img: 03-15-pm/2-license-plate-maker.jpg
-   caption: All license plates are hand-made. This is Nalei Taabe, who made mine.
+   caption: All license plates are hand-made. This is Nalei Taabe who made mine.
  - img: 03-15-pm/3-license-plate.jpg
    caption: No caption needed.
  - img: 03-15-pm/4-bike-with-plate.jpg

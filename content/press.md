@@ -20,16 +20,16 @@ English's journey is an attempt to explore his family history and discover how, 
 [Three Men Rescued by Lord Jellicoe](assets/1919-SydneyMorningNews.pdf)
 _The Sydney Morning Herald_ 1919
 
-<div class="newspaper"><a href="/assets/1919-SydneyMorningNews.pdf"><img src="/assets/1919-SydneyMorningNews.jpg" alt="front page of the 1919 Sydney Morning News newspaper"></a></div>
+![front page of the 1919 Sydney Morning News newspaper](assets/1919-SydneyMorningNews.jpg)
 
 -----
 [Robinson Crusoe Back in Malden](assets/1920-BostonGlobe.pdf)
 _The Boston Sunday Globe_ 1920
 
-<div class="newspaper"><a href="/assets/1920-BostonGlobe.pdf"><img src="/assets/1920-BostonGlobe.jpg" alt="front page of the 1920 Boston Sunday Globe newspaper"></a></div>
+![front page of the 1920 Boston Sunday Globe newspaper](assets/1920-BostonGlobe.jpg)
 
 -----
 [Malden Atoll in Pacific Near H-Bomb Test Site](assets/1957-BostonGlobe.pdf)
 _The Boston Globe_ 1957
 
-<div class="newspaper"><a href="/assets/1957-BostonGlobe.pdf"><img src="/assets/1957-BostonGlobe.jpg" alt="front page of the 1957 Boston Gloabe newspaper"></a></div>
+![front page of the 1957 Boston Gloabe newspaper](assets/1957-BostonGlobe.jpg)

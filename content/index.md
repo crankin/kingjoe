@@ -3,7 +3,7 @@ title: Orientation
 layout: layouts/home.njk
 bodyclass: mapback
 ---
-![Sunset from the porch](/assets/sunset.jpg)
+![Sunset from the porch](assets/sunset.jpg)
 
 In 1919, Marc English’s grandfather, Joe English, was rescued by Admiral Lord Jellicoe, HM Royal Navy, after being marooned on the world’s largest coral atoll due to the Spanish Flu pandemic.
 
@@ -11,6 +11,6 @@ For decades grandson Marc has been entrusted with the family artifacts: grandfat
 
 Now, the younger English – old enough to be grandfather himself – arrives to learn more about the island; the overlapping cultures of the Missionary Catholic and Protestant colonizers; and South Pacific, France, the British Empire, and the United States around which a now-multinational corporation (Unilever) are connected; the Great War; and a 29-year-old man from outside Boston who has found himself all but alone on a desert island – using a false name.
 
-<!--
+
 [How to pronounce Kiritimati](https://www.youtube.com/watch?v=5Pdg1_izeaA)
--->
+

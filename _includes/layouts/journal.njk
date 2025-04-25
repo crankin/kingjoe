@@ -9,16 +9,20 @@ layout: layouts/base.njk
   {% set previousPost = collections.journal | getPreviousCollectionItem %}
   {% set nextPost = collections.journal | getNextCollectionItem %}
 
-  <p style="text-align: center">
+  <div class="jnav">
+  <pre>______________////|__________________////|____</pre>
+<p>
+
   {% if previousPost %}
-    <a href="{{ previousPost.url }}">&larr; {{ previousPost.data.title }}</a>
+    <- <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
   {% endif %}
-  {% if nextPost %} |
-    <a href="{{ nextPost.url }}">{{ nextPost.data.title }} &rarr;</a>
+  {% if nextPost %} ||
+    <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> ->
   {% endif %}
   </p>
 
-  <p style="text-align: center"><a href="/journal#entries">All Journal Entries</a></p>
+  <p><a href="/journal#entries">All Journal Entries</a></p>
+  </div>
 </div>
 
 <div class="gallery">
@@ -30,7 +34,7 @@ layout: layouts/base.njk
     {% endif %} {% for item in photos %}
     <img
         src="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ item.img }}"
-        alt="{{ item.caption }}"
+        alt=""
         srcset="{{ metadata.imglocation }}/w_320/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ item.img }} 320w,
             {{ metadata.imglocation }}/w_640/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ item.img }} 640w"
         sizes="(max-width: 320px) 100vw, 640px"

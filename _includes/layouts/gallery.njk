@@ -12,6 +12,7 @@ layout: layouts/base.njk
 {% endif %}
 
 <ul class="photogallery">
+
     {% if galname == "gallery1" %} {% for photo in gallery1 %}
     <li>
         <a
@@ -36,12 +37,3 @@ layout: layouts/base.njk
         baguetteBox.run(".photogallery");
     });
 </script>
-<!-- <ul class="photogallery">
-  {% for photo in gallery1 %}
-    <li><a href="#"><img src="{{ metadata.imglocation }}/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ photo }}"
-      alt=""
-      srcset="{{ metadata.imglocation }}/w_320/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ photo }} 320w,
-              {{ metadata.imglocation }}/w_640/{{ cloudinary }}/kingjoe/{{ gallery }}/{{ photo }} 640w"
-      sizes="(max-width: 320px) 100vw, 640px"></a></li>
-  {% endfor %}
-</ul> -->

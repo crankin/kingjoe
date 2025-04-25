@@ -11,13 +11,12 @@ photos:
  - img: 03-20-pm/2-tab-Iou-octopi.jpg
    caption: Teraibwebwe, 33, is Iou’s third wife. At 54 the third marriage is he proverbial charm, as the cute pair do everything together. Teraibwebwe is related to his first wife, the marriage ending in divorce. Widowed after his second marriage, Teraibwebwe is related to his first wife. Relationships are complicated here, at least to me. With a morning’s catch of octopi in the background. FYI, Iou is pronounced YOW.
  - img: 03-20-pm/3-london-from-paris.jpg
-   caption: London from Paris. Back in the day — 100 years ago — fires would be lit to communicate across the channel, three miles wide.
+   caption: London from Paris. Back in the day — 100 years ago — fires would be lit to communicate across the channel, three miles wide.
  - img: 03-20-pm/5-paul-stanislas-rougier.jpg
-   caption: St Stanislas church. Fr. Emmanuel Rougier’s brother was Paul-Stanislas Rougier, himself a man of the cloth. Manny named the lagoon bay at Poland after his brother’s patron saint. This church was built in 1995.
+   caption: St. Stanislas church. Fr. Emmanuel Rougier’s brother was Paul-Stanislas Rougier, himself a man of the cloth. Manny named the lagoon bay at Poland after his brother’s patron saint. This church was built in 1995.
  - img: 03-20-pm/6-boston-celtics-kid.jpg
    caption: Of course he had no idea what the Boston Celtics are, or a word of what I was saying. The way to talk to children is not down to them, but on their own level.
 ---
-<!-- 4. Copra making in Poland.  Pick coconuts that are ready.  If still green, allow a month to dry. Split in half, scoop out the flesh. Allow to dry in sun for a week. Cover, if rainy. After a week, fill sacks. Sacks will eventually be shipped to Tahiti, Fiji, and in the old days, Honolulu, where dried meats will be compressed for oil. Coconut oil, to be found in many things, from soap to beauty products. -->
 
 #### 7:09 PM
 
